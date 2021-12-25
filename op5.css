@@ -1,0 +1,182 @@
+.flft {
+	float: left;
+	font-size: 13px;
+	font-family: arial;
+	margin: 14px 0px 0px 18px;
+	text-decoration: none;
+}
+
+.flrght {
+	float: right;
+	margin: 14px 18px 0px 0px;
+	font-size: 13px;
+	font-family: arial;
+	text-decoration: none;
+}
+
+.himg {
+	height: 16px;
+	width: 16px;
+	margin: 15px 18px 0px 0px;
+	float: right;
+	background-image: url('apps.png');
+}
+
+.himg:hover {
+	background-image: url('appsbutton 1.png');
+}
+
+.btnsi {
+	height: 30px;
+	margin: 8px 23px 0px 0px;
+	font-weight: 600;
+	background-color: #4584F2;
+	float: right;
+	border-style: hidden;
+	color: #fff;
+	padding: 0px 12px 0px 12px;
+	border-radius: 2px;
+}
+
+.gologo {
+	margin: auto;
+	height: 90px;
+	width: auto;
+	text-align: center;
+}
+
+.gldiv {
+	margin: 124px auto auto auto;
+	width: 1140px;
+	text-align: center;
+}
+
+.h46 {
+	height: 46px;
+}
+
+.srcbar[type=text] {
+  width: 580px;
+  box-sizing: border-box;
+  border: 1px solid #dfe1e5;
+  border-radius: 34px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('search.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+	margin: 30px auto auto auto;
+	text-align: left;
+	display: flex;
+}
+
+.srcbar:hover {
+	box-shadow: 0 1px 6px 0 #ccc;
+	border-color: #E0E0E0;
+}
+
+.srcbar:focus {
+	border: 1px solid #dfe1e5;
+	outline: none;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #F2F2F2;
+   color: white;
+	height: 40px;
+	border-top: 1px solid #E0E0E0;
+}
+
+.lfoot {
+	margin: 12px 0px 0px 30px;
+	float: left;
+	text-decoration: none;
+	color: #6C6C6C;
+	font-size: 14px;
+	font-family: arial;
+}
+
+.lfoot2 {
+	margin: 12px 0px 0px 28px;
+	float: left;
+	text-decoration: none;
+	color: #6C6C6C;
+	font-size: 14px;
+	font-family: arial;
+}
+
+.rfoot {
+	margin: 12px 30px 0px 0px;
+	float: right;
+	text-decoration: none;
+	color: #6C6C6C;
+	font-size: 14px;
+	font-family: arial;
+}
+
+.rfoot2 {
+	margin: 12px 28px 0px 0px;
+	float: right;
+	text-decoration: none;
+	color: #6C6C6C;
+	font-size: 14px;
+	font-family: arial;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.gobtn {
+	height: 36px;
+	margin: 30px 10px auto auto;
+	font-weight: 500;
+	background-color: #F4F4F4;
+	border-style: hidden;
+	color: #5F6368;
+	padding: 0px 16px 0px 16px;
+	border-radius: 4px;
+	text-align: center;
+	font-size: 15px;
+}
+
+.gobtn:hover {
+	border: 1px solid #AFAFAF;
+	box-shadow: 0 0 1px 0 #ccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
